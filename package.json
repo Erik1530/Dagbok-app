@@ -11,8 +11,10 @@
   "dependencies": {
     "@headlessui/react": "^1.7.17",
     "@heroicons/react": "^2.0.18",
+    "express": "^4.21.2",
     "glob": "^11.0.1",
-    "next": "14.0.4",
+    "mongoose": "^8.12.1",
+    "next": "^14.2.24",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "rimraf": "^6.0.1"
